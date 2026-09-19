@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-19T19:23:33.693Z",
+  "updatedAt": "2026-09-19T19:23:38.273Z",
   "problems": [
     {
       "frontendId": "2",
@@ -83,6 +83,26 @@
           "path": "0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.cpp",
           "sha": "8537c169a355500d7b794cce2f60676f1bdd8d87",
           "lastSyncedAt": "2026-09-19T19:22:49.289Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "203",
+      "title": "Remove Linked List Elements",
+      "slug": "remove-linked-list-elements",
+      "problemName": "0203-remove-linked-list-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-linked-list-elements/",
+      "folderPath": "0203-remove-linked-list-elements/",
+      "readmePath": "0203-remove-linked-list-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0203-remove-linked-list-elements.cpp",
+          "path": "0203-remove-linked-list-elements/0203-remove-linked-list-elements.cpp",
+          "sha": "74315a65a777c5c533cc8b975287e3f93c15aad4",
+          "lastSyncedAt": "2026-09-19T19:23:38.273Z"
         }
       ]
     },
