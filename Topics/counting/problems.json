@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "counting",
+    "name": "Counting"
+  },
+  "updatedAt": "2026-09-19T19:23:00.615Z",
+  "problems": [
+    {
+      "frontendId": "1512",
+      "title": "Number of Good Pairs",
+      "slug": "number-of-good-pairs",
+      "problemName": "1512-number-of-good-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+      "folderPath": "1512-number-of-good-pairs/",
+      "readmePath": "1512-number-of-good-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1512-number-of-good-pairs.cpp",
+          "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.cpp",
+          "sha": "bc6aca2458a06a34aae421eb4a2b5c86023c6673",
+          "lastSyncedAt": "2026-09-19T19:23:00.615Z"
+        }
+      ]
+    }
+  ]
+}
