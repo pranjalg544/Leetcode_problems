@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-19T19:22:53.747Z",
+  "updatedAt": "2026-09-19T19:23:00.615Z",
   "problems": [
     {
       "frontendId": "2",
@@ -23,6 +23,26 @@
           "path": "0002-add-two-numbers/0002-add-two-numbers.cpp",
           "sha": "c0229ff36f716ffad1b09614f0463a476c63ee3e",
           "lastSyncedAt": "2026-09-19T19:22:53.747Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1512",
+      "title": "Number of Good Pairs",
+      "slug": "number-of-good-pairs",
+      "problemName": "1512-number-of-good-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+      "folderPath": "1512-number-of-good-pairs/",
+      "readmePath": "1512-number-of-good-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1512-number-of-good-pairs.cpp",
+          "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.cpp",
+          "sha": "bc6aca2458a06a34aae421eb4a2b5c86023c6673",
+          "lastSyncedAt": "2026-09-19T19:23:00.615Z"
         }
       ]
     },
