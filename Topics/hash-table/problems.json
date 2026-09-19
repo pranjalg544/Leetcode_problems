@@ -4,8 +4,28 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-19T19:23:00.615Z",
+  "updatedAt": "2026-09-19T19:23:11.398Z",
   "problems": [
+    {
+      "frontendId": "1394",
+      "title": "Find Lucky Integer in an Array",
+      "slug": "find-lucky-integer-in-an-array",
+      "problemName": "1394-find-lucky-integer-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-lucky-integer-in-an-array/",
+      "folderPath": "1394-find-lucky-integer-in-an-array/",
+      "readmePath": "1394-find-lucky-integer-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1394-find-lucky-integer-in-an-array.cpp",
+          "path": "1394-find-lucky-integer-in-an-array/1394-find-lucky-integer-in-an-array.cpp",
+          "sha": "81d1210f24e90685748bcd5cd8187c4dad92ef1a",
+          "lastSyncedAt": "2026-09-19T19:23:11.398Z"
+        }
+      ]
+    },
     {
       "frontendId": "1512",
       "title": "Number of Good Pairs",
