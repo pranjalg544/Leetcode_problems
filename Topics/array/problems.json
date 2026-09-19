@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-19T19:22:35.644Z",
+  "updatedAt": "2026-09-19T19:23:00.615Z",
   "problems": [
     {
       "frontendId": "88",
@@ -23,6 +23,26 @@
           "path": "0088-merge-sorted-array/0088-merge-sorted-array.cpp",
           "sha": "21cf0f5ebbd64b1b07c053c839912f7061dc9be5",
           "lastSyncedAt": "2026-09-19T19:22:35.644Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1512",
+      "title": "Number of Good Pairs",
+      "slug": "number-of-good-pairs",
+      "problemName": "1512-number-of-good-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+      "folderPath": "1512-number-of-good-pairs/",
+      "readmePath": "1512-number-of-good-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1512-number-of-good-pairs.cpp",
+          "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.cpp",
+          "sha": "bc6aca2458a06a34aae421eb4a2b5c86023c6673",
+          "lastSyncedAt": "2026-09-19T19:23:00.615Z"
         }
       ]
     },
