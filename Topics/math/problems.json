@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-19T19:23:00.615Z",
+  "updatedAt": "2026-09-20T16:58:27.464Z",
   "problems": [
     {
       "frontendId": "2",
@@ -23,6 +23,26 @@
           "path": "0002-add-two-numbers/0002-add-two-numbers.cpp",
           "sha": "c0229ff36f716ffad1b09614f0463a476c63ee3e",
           "lastSyncedAt": "2026-09-19T19:22:53.747Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "202",
+      "title": "Happy Number",
+      "slug": "happy-number",
+      "problemName": "0202-happy-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/happy-number/",
+      "folderPath": "0202-happy-number/",
+      "readmePath": "0202-happy-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0202-happy-number.cpp",
+          "path": "0202-happy-number/0202-happy-number.cpp",
+          "sha": "65de68e5fb6e3122a69aba8a1f0fdcc3a3080afb",
+          "lastSyncedAt": "2026-09-20T16:58:27.464Z"
         }
       ]
     },
