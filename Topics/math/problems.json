@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-20T18:25:48.993Z",
+  "updatedAt": "2026-09-21T17:43:28.492Z",
   "problems": [
     {
       "frontendId": "2",
@@ -23,6 +23,26 @@
           "path": "0002-add-two-numbers/0002-add-two-numbers.cpp",
           "sha": "c0229ff36f716ffad1b09614f0463a476c63ee3e",
           "lastSyncedAt": "2026-09-19T19:22:53.747Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "66",
+      "title": "Plus One",
+      "slug": "plus-one",
+      "problemName": "0066-plus-one",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
+      "folderPath": "0066-plus-one/",
+      "readmePath": "0066-plus-one/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0066-plus-one.cpp",
+          "path": "0066-plus-one/0066-plus-one.cpp",
+          "sha": "f2d71d051ef84069eb66d15f36e282a319cc0760",
+          "lastSyncedAt": "2026-09-21T17:43:28.492Z"
         }
       ]
     },
