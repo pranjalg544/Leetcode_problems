@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-20T18:25:48.993Z",
+  "updatedAt": "2026-09-21T17:43:28.492Z",
   "problems": [
     {
       "frontendId": "15",
@@ -23,6 +23,26 @@
           "path": "0015-3sum/0015-3sum.cpp",
           "sha": "3fc26131c997bc1fea20f60fec660e6ca9626af5",
           "lastSyncedAt": "2026-09-19T19:24:04.332Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "66",
+      "title": "Plus One",
+      "slug": "plus-one",
+      "problemName": "0066-plus-one",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
+      "folderPath": "0066-plus-one/",
+      "readmePath": "0066-plus-one/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0066-plus-one.cpp",
+          "path": "0066-plus-one/0066-plus-one.cpp",
+          "sha": "f2d71d051ef84069eb66d15f36e282a319cc0760",
+          "lastSyncedAt": "2026-09-21T17:43:28.492Z"
         }
       ]
     },
