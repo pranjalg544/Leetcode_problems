@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-20T16:58:36.994Z",
+  "updatedAt": "2026-09-21T18:07:52.471Z",
   "problems": [
     {
       "frontendId": "169",
@@ -83,6 +83,26 @@
           "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.cpp",
           "sha": "bc6aca2458a06a34aae421eb4a2b5c86023c6673",
           "lastSyncedAt": "2026-09-19T19:23:00.615Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2283",
+      "title": "Check if Number Has Equal Digit Count and Digit Value",
+      "slug": "check-if-number-has-equal-digit-count-and-digit-value",
+      "problemName": "2283-check-if-number-has-equal-digit-count-and-digit-value",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/",
+      "folderPath": "2283-check-if-number-has-equal-digit-count-and-digit-value/",
+      "readmePath": "2283-check-if-number-has-equal-digit-count-and-digit-value/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2283-check-if-number-has-equal-digit-count-and-digit-value.cpp",
+          "path": "2283-check-if-number-has-equal-digit-count-and-digit-value/2283-check-if-number-has-equal-digit-count-and-digit-value.cpp",
+          "sha": "564f1d4a25eeff8c1b102c15b8382b2afbe7654c",
+          "lastSyncedAt": "2026-09-21T18:07:52.471Z"
         }
       ]
     }
