@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 24 | 19 | 5 | 0 |
+| 25 | 20 | 5 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 11 days | 11 days | 12 |
+| 12 days | 12 days | 13 |
 
 | Date | Problems |
 | --- | ---: |
@@ -27,21 +27,22 @@ Contains topicwise list of solved problems.
 | 2026-09-19 | 3 |
 | 2026-09-20 | 2 |
 | 2026-09-21 | 2 |
+| 2026-09-22 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 10 | 42% |
-| Linked List | 8 | 33% |
-| Math | 7 | 29% |
-| Two Pointers | 6 | 25% |
-| Hash Table | 5 | 21% |
-| Counting | 4 | 17% |
-| String | 4 | 17% |
-| Recursion | 3 | 13% |
-| Sorting | 3 | 13% |
-| Binary Search | 1 | 4% |
+| Array | 10 | 40% |
+| Linked List | 8 | 32% |
+| Math | 8 | 32% |
+| Two Pointers | 6 | 24% |
+| Hash Table | 5 | 20% |
+| Counting | 4 | 16% |
+| String | 4 | 16% |
+| Recursion | 3 | 12% |
+| Sorting | 3 | 12% |
+| Simulation | 2 | 8% |
 
 ## Topics
 
@@ -57,11 +58,12 @@ Contains topicwise list of solved problems.
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Hash Table](Topics/hash-table/) | 5 |
 | [Linked List](Topics/linked-list/) | 8 |
-| [Math](Topics/math/) | 7 |
+| [Math](Topics/math/) | 8 |
+| [Number Theory](Topics/number-theory/) | 1 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
 | [Recursion](Topics/recursion/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
-| [Simulation](Topics/simulation/) | 1 |
+| [Simulation](Topics/simulation/) | 2 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 4 |
