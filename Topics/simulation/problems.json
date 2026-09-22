@@ -4,8 +4,28 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-19T19:22:19.263Z",
+  "updatedAt": "2026-09-22T17:01:24.514Z",
   "problems": [
+    {
+      "frontendId": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "problemName": "0258-add-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-digits/",
+      "folderPath": "0258-add-digits/",
+      "readmePath": "0258-add-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0258-add-digits.cpp",
+          "path": "0258-add-digits/0258-add-digits.cpp",
+          "sha": "d288e6626c2c30bb5bcd65d8969b25c78b7c02e3",
+          "lastSyncedAt": "2026-09-22T17:01:24.514Z"
+        }
+      ]
+    },
     {
       "frontendId": "3477",
       "title": "Fruits Into Baskets II",
