@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-21T17:43:28.492Z",
+  "updatedAt": "2026-09-22T17:52:27.748Z",
   "problems": [
     {
       "frontendId": "15",
@@ -183,6 +183,26 @@
           "path": "1822-sign-of-the-product-of-an-array/1822-sign-of-the-product-of-an-array.cpp",
           "sha": "3d4dbd79bfffd30e08c25c2d95c8f3867e3ab305",
           "lastSyncedAt": "2026-09-19T19:21:37.742Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2347",
+      "title": "Best Poker Hand",
+      "slug": "best-poker-hand",
+      "problemName": "2347-best-poker-hand",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/best-poker-hand/",
+      "folderPath": "2347-best-poker-hand/",
+      "readmePath": "2347-best-poker-hand/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2347-best-poker-hand.cpp",
+          "path": "2347-best-poker-hand/2347-best-poker-hand.cpp",
+          "sha": "508689cc88baaf4a266a8a83cf044c267b23280d",
+          "lastSyncedAt": "2026-09-22T17:52:27.748Z"
         }
       ]
     },
