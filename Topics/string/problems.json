@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-21T18:07:52.471Z",
+  "updatedAt": "2026-09-23T17:36:13.904Z",
   "problems": [
     {
       "frontendId": "20",
@@ -83,6 +83,26 @@
           "path": "2283-check-if-number-has-equal-digit-count-and-digit-value/2283-check-if-number-has-equal-digit-count-and-digit-value.cpp",
           "sha": "564f1d4a25eeff8c1b102c15b8382b2afbe7654c",
           "lastSyncedAt": "2026-09-21T18:07:52.471Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3442",
+      "title": "Maximum Difference Between Even and Odd Frequency I",
+      "slug": "maximum-difference-between-even-and-odd-frequency-i",
+      "problemName": "3442-maximum-difference-between-even-and-odd-frequency-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/",
+      "folderPath": "3442-maximum-difference-between-even-and-odd-frequency-i/",
+      "readmePath": "3442-maximum-difference-between-even-and-odd-frequency-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3442-maximum-difference-between-even-and-odd-frequency-i.cpp",
+          "path": "3442-maximum-difference-between-even-and-odd-frequency-i/3442-maximum-difference-between-even-and-odd-frequency-i.cpp",
+          "sha": "9218a0230571f4c5479bee43ccf8ac5ab2755704",
+          "lastSyncedAt": "2026-09-23T17:36:13.904Z"
         }
       ]
     }
