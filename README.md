@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 26 | 21 | 5 | 0 |
+| 27 | 22 | 5 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 12 days | 12 days | 13 |
+| 13 days | 13 days | 14 |
 
 | Date | Problems |
 | --- | ---: |
@@ -28,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-20 | 2 |
 | 2026-09-21 | 2 |
 | 2026-09-22 | 2 |
+| 2026-09-23 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 11 | 42% |
-| Linked List | 8 | 31% |
-| Math | 8 | 31% |
-| Hash Table | 6 | 23% |
-| Two Pointers | 6 | 23% |
-| Counting | 5 | 19% |
-| String | 4 | 15% |
-| Recursion | 3 | 12% |
-| Sorting | 3 | 12% |
-| Simulation | 2 | 8% |
+| Array | 11 | 41% |
+| Linked List | 8 | 30% |
+| Math | 8 | 30% |
+| Hash Table | 7 | 26% |
+| Counting | 6 | 22% |
+| Two Pointers | 6 | 22% |
+| String | 5 | 19% |
+| Recursion | 3 | 11% |
+| Sorting | 3 | 11% |
+| Simulation | 2 | 7% |
 
 ## Topics
 
@@ -52,11 +53,11 @@ Contains topicwise list of solved problems.
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
-| [Counting](Topics/counting/) | 5 |
+| [Counting](Topics/counting/) | 6 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
-| [Hash Table](Topics/hash-table/) | 6 |
+| [Hash Table](Topics/hash-table/) | 7 |
 | [Linked List](Topics/linked-list/) | 8 |
 | [Math](Topics/math/) | 8 |
 | [Number Theory](Topics/number-theory/) | 1 |
@@ -66,6 +67,6 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 2 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 4 |
+| [String](Topics/string/) | 5 |
 | [Two Pointers](Topics/two-pointers/) | 6 |
 <!---LeetHub Summary End-->
