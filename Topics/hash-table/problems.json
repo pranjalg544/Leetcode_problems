@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-22T17:52:27.748Z",
+  "updatedAt": "2026-09-23T17:36:13.904Z",
   "problems": [
     {
       "frontendId": "169",
@@ -123,6 +123,26 @@
           "path": "2347-best-poker-hand/2347-best-poker-hand.cpp",
           "sha": "508689cc88baaf4a266a8a83cf044c267b23280d",
           "lastSyncedAt": "2026-09-22T17:52:27.748Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3442",
+      "title": "Maximum Difference Between Even and Odd Frequency I",
+      "slug": "maximum-difference-between-even-and-odd-frequency-i",
+      "problemName": "3442-maximum-difference-between-even-and-odd-frequency-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/",
+      "folderPath": "3442-maximum-difference-between-even-and-odd-frequency-i/",
+      "readmePath": "3442-maximum-difference-between-even-and-odd-frequency-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3442-maximum-difference-between-even-and-odd-frequency-i.cpp",
+          "path": "3442-maximum-difference-between-even-and-odd-frequency-i/3442-maximum-difference-between-even-and-odd-frequency-i.cpp",
+          "sha": "9218a0230571f4c5479bee43ccf8ac5ab2755704",
+          "lastSyncedAt": "2026-09-23T17:36:13.904Z"
         }
       ]
     }
