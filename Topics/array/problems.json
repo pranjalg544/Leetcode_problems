@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T17:14:31.284Z",
+  "updatedAt": "2026-09-24T17:48:27.003Z",
   "problems": [
     {
       "frontendId": "15",
@@ -123,6 +123,26 @@
           "path": "0229-majority-element-ii/0229-majority-element-ii.cpp",
           "sha": "368817734b8f7e54db51c0b72ac9d2adcf71f5e6",
           "lastSyncedAt": "2026-09-24T17:14:31.284Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "problemName": "0347-top-k-frequent-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "folderPath": "0347-top-k-frequent-elements/",
+      "readmePath": "0347-top-k-frequent-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0347-top-k-frequent-elements.cpp",
+          "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.cpp",
+          "sha": "8433fb80b25c59300a39c111d2ddc2c1ee8c175b",
+          "lastSyncedAt": "2026-09-24T17:48:27.003Z"
         }
       ]
     },
