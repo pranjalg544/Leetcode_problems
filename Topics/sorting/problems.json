@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T17:48:27.003Z",
+  "updatedAt": "2026-09-25T16:57:33.886Z",
   "problems": [
     {
       "frontendId": "15",
@@ -103,6 +103,26 @@
           "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.cpp",
           "sha": "8433fb80b25c59300a39c111d2ddc2c1ee8c175b",
           "lastSyncedAt": "2026-09-24T17:48:27.003Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "problemName": "0451-sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "folderPath": "0451-sort-characters-by-frequency/",
+      "readmePath": "0451-sort-characters-by-frequency/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0451-sort-characters-by-frequency.cpp",
+          "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.cpp",
+          "sha": "271721d5939473e1188f1a74cc4f4924245cdbd3",
+          "lastSyncedAt": "2026-09-25T16:57:33.886Z"
         }
       ]
     }
