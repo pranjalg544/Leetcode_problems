@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 30 | 23 | 7 | 0 |
+| 31 | 23 | 8 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 14 days | 14 days | 15 |
+| 15 days | 15 days | 16 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-11 | 1 |
 | 2026-09-12 | 1 |
 | 2026-09-13 | 3 |
 | 2026-09-14 | 3 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-22 | 2 |
 | 2026-09-23 | 2 |
 | 2026-09-24 | 2 |
+| 2026-09-25 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 13 | 43% |
-| Hash Table | 10 | 33% |
-| Counting | 9 | 30% |
-| Linked List | 8 | 27% |
-| Math | 8 | 27% |
-| String | 6 | 20% |
-| Two Pointers | 6 | 20% |
-| Sorting | 5 | 17% |
+| Array | 13 | 42% |
+| Hash Table | 11 | 35% |
+| Counting | 10 | 32% |
+| Linked List | 8 | 26% |
+| Math | 8 | 26% |
+| String | 7 | 23% |
+| Sorting | 6 | 19% |
+| Two Pointers | 6 | 19% |
 | Recursion | 3 | 10% |
-| Boyer–Moore Majority Vote Algorithm | 2 | 7% |
+| Boyer–Moore Majority Vote Algorithm | 2 | 6% |
 
 ## Topics
 
@@ -53,13 +53,13 @@ Contains topicwise list of solved problems.
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
-| [Bucket Sort](Topics/bucket-sort/) | 1 |
-| [Counting](Topics/counting/) | 9 |
+| [Bucket Sort](Topics/bucket-sort/) | 2 |
+| [Counting](Topics/counting/) | 10 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
-| [Hash Table](Topics/hash-table/) | 10 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
+| [Hash Table](Topics/hash-table/) | 11 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 8 |
 | [Math](Topics/math/) | 8 |
 | [Number Theory](Topics/number-theory/) | 1 |
@@ -69,8 +69,8 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 2 |
-| [Sorting](Topics/sorting/) | 5 |
+| [Sorting](Topics/sorting/) | 6 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 6 |
+| [String](Topics/string/) | 7 |
 | [Two Pointers](Topics/two-pointers/) | 6 |
 <!---LeetHub Summary End-->
