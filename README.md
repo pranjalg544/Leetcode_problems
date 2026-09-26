@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 31 | 23 | 8 | 0 |
+| 32 | 24 | 8 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 15 days | 15 days | 16 |
+| 1 days | 15 days | 17 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-12 | 1 |
 | 2026-09-13 | 3 |
 | 2026-09-14 | 3 |
 | 2026-09-15 | 2 |
@@ -29,27 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-09-23 | 2 |
 | 2026-09-24 | 2 |
 | 2026-09-25 | 1 |
+| 2026-09-27 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 13 | 42% |
-| Hash Table | 11 | 35% |
-| Counting | 10 | 32% |
-| Linked List | 8 | 26% |
-| Math | 8 | 26% |
-| String | 7 | 23% |
+| Array | 14 | 44% |
+| Hash Table | 11 | 34% |
+| Counting | 10 | 31% |
+| Linked List | 8 | 25% |
+| Math | 8 | 25% |
+| String | 7 | 22% |
 | Sorting | 6 | 19% |
 | Two Pointers | 6 | 19% |
-| Recursion | 3 | 10% |
-| Boyer–Moore Majority Vote Algorithm | 2 | 6% |
+| Recursion | 3 | 9% |
+| Simulation | 3 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 13 |
+| [Array](Topics/array/) | 14 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
@@ -68,7 +68,7 @@ Contains topicwise list of solved problems.
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
-| [Simulation](Topics/simulation/) | 2 |
+| [Simulation](Topics/simulation/) | 3 |
 | [Sorting](Topics/sorting/) | 6 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 7 |
