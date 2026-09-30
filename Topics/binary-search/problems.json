@@ -4,8 +4,28 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-29T17:59:37.717Z",
+  "updatedAt": "2026-09-30T17:42:01.744Z",
   "problems": [
+    {
+      "frontendId": "1351",
+      "title": "Count Negative Numbers in a Sorted Matrix",
+      "slug": "count-negative-numbers-in-a-sorted-matrix",
+      "problemName": "1351-count-negative-numbers-in-a-sorted-matrix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/",
+      "folderPath": "1351-count-negative-numbers-in-a-sorted-matrix/",
+      "readmePath": "1351-count-negative-numbers-in-a-sorted-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1351-count-negative-numbers-in-a-sorted-matrix.cpp",
+          "path": "1351-count-negative-numbers-in-a-sorted-matrix/1351-count-negative-numbers-in-a-sorted-matrix.cpp",
+          "sha": "8ab86c723470dbab7abb29f59d0e4d8c9202d787",
+          "lastSyncedAt": "2026-09-30T17:42:01.744Z"
+        }
+      ]
+    },
     {
       "frontendId": "2824",
       "title": "Count Pairs Whose Sum is Less than Target",
