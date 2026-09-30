@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 37 | 29 | 8 | 0 |
+| 38 | 30 | 8 | 0 |
 
 ## Activity
 
@@ -28,20 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-09-27 | 2 |
 | 2026-09-28 | 1 |
 | 2026-09-29 | 1 |
-| 2026-09-30 | 2 |
+| 2026-09-30 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 19 | 51% |
-| Hash Table | 11 | 30% |
-| Counting | 10 | 27% |
-| Linked List | 8 | 22% |
-| Math | 8 | 22% |
-| Sorting | 8 | 22% |
-| String | 7 | 19% |
-| Two Pointers | 7 | 19% |
+| Array | 20 | 53% |
+| Hash Table | 11 | 29% |
+| Counting | 10 | 26% |
+| Linked List | 8 | 21% |
+| Math | 8 | 21% |
+| Sorting | 8 | 21% |
+| String | 7 | 18% |
+| Two Pointers | 7 | 18% |
 | Simulation | 4 | 11% |
 | Binary Search | 3 | 8% |
 
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 20 |
+| [Array](Topics/array/) | 21 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
