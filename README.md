@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 38 | 30 | 8 | 0 |
+| 39 | 31 | 8 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 15 days | 20 |
+| 5 days | 15 days | 21 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-16 | 1 |
 | 2026-09-17 | 3 |
 | 2026-09-18 | 1 |
 | 2026-09-19 | 3 |
@@ -29,27 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-09-28 | 1 |
 | 2026-09-29 | 1 |
 | 2026-09-30 | 3 |
+| 2026-10-01 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 20 | 53% |
-| Hash Table | 11 | 29% |
+| Array | 21 | 54% |
+| Hash Table | 11 | 28% |
 | Counting | 10 | 26% |
 | Linked List | 8 | 21% |
 | Math | 8 | 21% |
 | Sorting | 8 | 21% |
 | String | 7 | 18% |
 | Two Pointers | 7 | 18% |
-| Simulation | 4 | 11% |
+| Simulation | 4 | 10% |
 | Binary Search | 3 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 21 |
+| [Array](Topics/array/) | 22 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
