@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-10-02T17:51:55.213Z",
+  "updatedAt": "2026-10-02T18:34:32.866Z",
   "problems": [
     {
       "frontendId": "258",
@@ -63,6 +63,26 @@
           "path": "1929-concatenation-of-array/1929-concatenation-of-array.cpp",
           "sha": "b9d77c881f20c78033185a11f862873386a46446",
           "lastSyncedAt": "2026-09-26T20:38:11.917Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2149",
+      "title": "Rearrange Array Elements by Sign",
+      "slug": "rearrange-array-elements-by-sign",
+      "problemName": "2149-rearrange-array-elements-by-sign",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+      "folderPath": "2149-rearrange-array-elements-by-sign/",
+      "readmePath": "2149-rearrange-array-elements-by-sign/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2149-rearrange-array-elements-by-sign.cpp",
+          "path": "2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.cpp",
+          "sha": "648d7a16e100476acdd602ffc9f4a4d7745e72b8",
+          "lastSyncedAt": "2026-10-02T18:34:32.866Z"
         }
       ]
     },
