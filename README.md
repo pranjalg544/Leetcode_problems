@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 41 | 32 | 9 | 0 |
+| 42 | 33 | 9 | 0 |
 
 ## Activity
 
@@ -28,37 +28,38 @@ Contains topicwise list of solved problems.
 | 2026-09-30 | 3 |
 | 2026-10-01 | 1 |
 | 2026-10-02 | 1 |
-| 2026-10-03 | 1 |
+| 2026-10-03 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 23 | 56% |
-| Hash Table | 11 | 27% |
+| Array | 24 | 57% |
+| Hash Table | 12 | 29% |
 | Counting | 10 | 24% |
-| Linked List | 8 | 20% |
-| Math | 8 | 20% |
-| Sorting | 8 | 20% |
-| Two Pointers | 8 | 20% |
+| Sorting | 9 | 21% |
+| Linked List | 8 | 19% |
+| Math | 8 | 19% |
+| Two Pointers | 8 | 19% |
 | String | 7 | 17% |
-| Simulation | 6 | 15% |
+| Simulation | 6 | 14% |
 | Binary Search | 3 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 24 |
+| [Array](Topics/array/) | 25 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
 | [Counting](Topics/counting/) | 10 |
+| [Counting Sort](Topics/counting-sort/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
-| [Hash Table](Topics/hash-table/) | 11 |
+| [Hash Table](Topics/hash-table/) | 12 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Linked List](Topics/linked-list/) | 8 |
 | [Math](Topics/math/) | 8 |
@@ -70,7 +71,7 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 6 |
-| [Sorting](Topics/sorting/) | 8 |
+| [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 7 |
 | [Two Pointers](Topics/two-pointers/) | 8 |
