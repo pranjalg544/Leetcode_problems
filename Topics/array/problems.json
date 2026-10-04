@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-03T17:04:44.946Z",
+  "updatedAt": "2026-10-04T14:55:19.903Z",
   "problems": [
     {
       "frontendId": "15",
@@ -483,6 +483,26 @@
           "path": "2824-count-pairs-whose-sum-is-less-than-target/2824-count-pairs-whose-sum-is-less-than-target.cpp",
           "sha": "c8ba077c6946756c2fd65f3eda6de91b8383ca4f",
           "lastSyncedAt": "2026-09-29T17:59:37.717Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2903",
+      "title": "Find Indices With Index and Value Difference I",
+      "slug": "find-indices-with-index-and-value-difference-i",
+      "problemName": "2903-find-indices-with-index-and-value-difference-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/",
+      "folderPath": "2903-find-indices-with-index-and-value-difference-i/",
+      "readmePath": "2903-find-indices-with-index-and-value-difference-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2903-find-indices-with-index-and-value-difference-i.cpp",
+          "path": "2903-find-indices-with-index-and-value-difference-i/2903-find-indices-with-index-and-value-difference-i.cpp",
+          "sha": "46c6fe21c57843eaa0f6a288451e389d1fc435f0",
+          "lastSyncedAt": "2026-10-04T14:55:19.903Z"
         }
       ]
     },
