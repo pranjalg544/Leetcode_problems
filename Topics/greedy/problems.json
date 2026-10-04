@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "greedy",
+    "name": "Greedy"
+  },
+  "updatedAt": "2026-10-04T15:12:18.828Z",
+  "problems": [
+    {
+      "frontendId": "2706",
+      "title": "Buy Two Chocolates",
+      "slug": "buy-two-chocolates",
+      "problemName": "2706-buy-two-chocolates",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/buy-two-chocolates/",
+      "folderPath": "2706-buy-two-chocolates/",
+      "readmePath": "2706-buy-two-chocolates/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2706-buy-two-chocolates.cpp",
+          "path": "2706-buy-two-chocolates/2706-buy-two-chocolates.cpp",
+          "sha": "1551370d6f3abbd0713562d54aa6cbe892afdc5e",
+          "lastSyncedAt": "2026-10-04T15:12:18.828Z"
+        }
+      ]
+    }
+  ]
+}
