@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-25T16:57:33.886Z",
+  "updatedAt": "2026-10-05T17:56:51.298Z",
   "problems": [
     {
       "frontendId": "20",
@@ -103,6 +103,26 @@
           "path": "0520-detect-capital/0520-detect-capital.cpp",
           "sha": "d9ef1cb9c267d759f3054f083ec4ec12b6c01a5d",
           "lastSyncedAt": "2026-09-19T19:23:23.557Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1528",
+      "title": "Shuffle String",
+      "slug": "shuffle-string",
+      "problemName": "1528-shuffle-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shuffle-string/",
+      "folderPath": "1528-shuffle-string/",
+      "readmePath": "1528-shuffle-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1528-shuffle-string.cpp",
+          "path": "1528-shuffle-string/1528-shuffle-string.cpp",
+          "sha": "57b272099dcf5f32d1572bb9849c2114f8e9b9e4",
+          "lastSyncedAt": "2026-10-05T17:56:51.298Z"
         }
       ]
     },
