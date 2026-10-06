@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-06T14:05:34.054Z",
+  "updatedAt": "2026-10-06T14:09:13.371Z",
   "problems": [
     {
       "frontendId": "169",
@@ -243,6 +243,26 @@
           "path": "2367-number-of-arithmetic-triplets/2367-number-of-arithmetic-triplets.cpp",
           "sha": "eabdf61e5aa07faa6fe9082aef3d42d26ed70838",
           "lastSyncedAt": "2026-10-06T14:05:34.054Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2475",
+      "title": "Number of Unequal Triplets in Array",
+      "slug": "number-of-unequal-triplets-in-array",
+      "problemName": "2475-number-of-unequal-triplets-in-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-unequal-triplets-in-array/",
+      "folderPath": "2475-number-of-unequal-triplets-in-array/",
+      "readmePath": "2475-number-of-unequal-triplets-in-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2475-number-of-unequal-triplets-in-array.cpp",
+          "path": "2475-number-of-unequal-triplets-in-array/2475-number-of-unequal-triplets-in-array.cpp",
+          "sha": "af48fe7be5eff4e61200e5c042818541a317cecd",
+          "lastSyncedAt": "2026-10-06T14:09:13.371Z"
         }
       ]
     },
