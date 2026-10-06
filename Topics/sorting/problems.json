@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-04T15:12:18.828Z",
+  "updatedAt": "2026-10-06T14:09:13.371Z",
   "problems": [
     {
       "frontendId": "15",
@@ -163,6 +163,26 @@
           "path": "1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.cpp",
           "sha": "661a73f62390f714b0656e708033fc7650f1c820",
           "lastSyncedAt": "2026-09-30T17:46:33.905Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2475",
+      "title": "Number of Unequal Triplets in Array",
+      "slug": "number-of-unequal-triplets-in-array",
+      "problemName": "2475-number-of-unequal-triplets-in-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-unequal-triplets-in-array/",
+      "folderPath": "2475-number-of-unequal-triplets-in-array/",
+      "readmePath": "2475-number-of-unequal-triplets-in-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2475-number-of-unequal-triplets-in-array.cpp",
+          "path": "2475-number-of-unequal-triplets-in-array/2475-number-of-unequal-triplets-in-array.cpp",
+          "sha": "af48fe7be5eff4e61200e5c042818541a317cecd",
+          "lastSyncedAt": "2026-10-06T14:09:13.371Z"
         }
       ]
     },
