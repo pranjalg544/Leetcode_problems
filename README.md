@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 50 | 41 | 9 | 0 |
+| 51 | 42 | 9 | 0 |
 
 ## Activity
 
@@ -28,21 +28,21 @@ Contains topicwise list of solved problems.
 | 2026-10-04 | 2 |
 | 2026-10-05 | 1 |
 | 2026-10-06 | 3 |
-| 2026-10-07 | 1 |
+| 2026-10-07 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 31 | 62% |
-| Hash Table | 14 | 28% |
+| Array | 31 | 61% |
+| Hash Table | 14 | 27% |
 | Sorting | 11 | 22% |
 | Two Pointers | 11 | 22% |
 | Counting | 10 | 20% |
-| Math | 9 | 18% |
+| Math | 10 | 20% |
+| String | 9 | 18% |
 | Linked List | 8 | 16% |
-| String | 8 | 16% |
-| Simulation | 6 | 12% |
+| Simulation | 7 | 14% |
 | Binary Search | 3 | 6% |
 
 ## Topics
@@ -64,7 +64,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 14 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Linked List](Topics/linked-list/) | 8 |
-| [Math](Topics/math/) | 9 |
+| [Math](Topics/math/) | 10 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
@@ -72,9 +72,9 @@ Contains topicwise list of solved problems.
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
-| [Simulation](Topics/simulation/) | 6 |
+| [Simulation](Topics/simulation/) | 7 |
 | [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 8 |
+| [String](Topics/string/) | 9 |
 | [Two Pointers](Topics/two-pointers/) | 11 |
 <!---LeetHub Summary End-->
