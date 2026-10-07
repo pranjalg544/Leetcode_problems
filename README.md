@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 49 | 40 | 9 | 0 |
+| 50 | 41 | 9 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 10 days | 15 days | 26 |
+| 11 days | 15 days | 27 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-22 | 2 |
 | 2026-09-23 | 2 |
 | 2026-09-24 | 2 |
 | 2026-09-25 | 1 |
@@ -29,18 +28,19 @@ Contains topicwise list of solved problems.
 | 2026-10-04 | 2 |
 | 2026-10-05 | 1 |
 | 2026-10-06 | 3 |
+| 2026-10-07 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 31 | 63% |
-| Hash Table | 14 | 29% |
+| Array | 31 | 62% |
+| Hash Table | 14 | 28% |
 | Sorting | 11 | 22% |
 | Two Pointers | 11 | 22% |
 | Counting | 10 | 20% |
+| Math | 9 | 18% |
 | Linked List | 8 | 16% |
-| Math | 8 | 16% |
 | String | 8 | 16% |
 | Simulation | 6 | 12% |
 | Binary Search | 3 | 6% |
@@ -64,7 +64,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 14 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Linked List](Topics/linked-list/) | 8 |
-| [Math](Topics/math/) | 8 |
+| [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
