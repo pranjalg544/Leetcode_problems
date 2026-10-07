@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-05T17:56:51.298Z",
+  "updatedAt": "2026-10-07T18:11:52.264Z",
   "problems": [
     {
       "frontendId": "20",
@@ -63,6 +63,26 @@
           "path": "0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.cpp",
           "sha": "73fb37c99d9dc3a0a350211fc99ec777e9a0ce77",
           "lastSyncedAt": "2026-09-23T17:53:58.070Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "412",
+      "title": "Fizz Buzz",
+      "slug": "fizz-buzz",
+      "problemName": "0412-fizz-buzz",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
+      "folderPath": "0412-fizz-buzz/",
+      "readmePath": "0412-fizz-buzz/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0412-fizz-buzz.cpp",
+          "path": "0412-fizz-buzz/0412-fizz-buzz.cpp",
+          "sha": "45d7b408345da025435432886acb95f24647db20",
+          "lastSyncedAt": "2026-10-07T18:11:52.264Z"
         }
       ]
     },
