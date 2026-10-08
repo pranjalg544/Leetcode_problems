@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "hash-table",
-    "name": "Hash Table"
+    "name": "Hash Table",
+    "tagId": "6"
   },
-  "updatedAt": "2026-10-06T14:09:13.371Z",
+  "updatedAt": "2026-10-08T16:53:09.726Z",
   "problems": [
     {
       "frontendId": "169",
@@ -83,6 +84,26 @@
           "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.cpp",
           "sha": "8433fb80b25c59300a39c111d2ddc2c1ee8c175b",
           "lastSyncedAt": "2026-09-24T17:48:27.003Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "349",
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "problemName": "0349-intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
+      "folderPath": "0349-intersection-of-two-arrays/",
+      "readmePath": "0349-intersection-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0349-intersection-of-two-arrays.cpp",
+          "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
+          "sha": "100ab386c235f28fda2d65556796d15b8792df15",
+          "lastSyncedAt": "2026-10-08T16:53:09.726Z"
         }
       ]
     },
