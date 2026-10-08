@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 51 | 42 | 9 | 0 |
+| 52 | 43 | 9 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 11 days | 15 days | 27 |
+| 12 days | 15 days | 28 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-23 | 2 |
 | 2026-09-24 | 2 |
 | 2026-09-25 | 1 |
 | 2026-09-27 | 2 |
@@ -29,28 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-10-05 | 1 |
 | 2026-10-06 | 3 |
 | 2026-10-07 | 2 |
+| 2026-10-08 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 31 | 61% |
-| Hash Table | 14 | 27% |
-| Sorting | 11 | 22% |
-| Two Pointers | 11 | 22% |
-| Counting | 10 | 20% |
-| Math | 10 | 20% |
-| String | 9 | 18% |
-| Linked List | 8 | 16% |
-| Simulation | 7 | 14% |
-| Binary Search | 3 | 6% |
+| Array | 32 | 62% |
+| Hash Table | 15 | 29% |
+| Sorting | 12 | 23% |
+| Two Pointers | 12 | 23% |
+| Counting | 10 | 19% |
+| Math | 10 | 19% |
+| String | 9 | 17% |
+| Linked List | 8 | 15% |
+| Simulation | 7 | 13% |
+| Binary Search | 4 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 32 |
-| [Binary Search](Topics/binary-search/) | 3 |
+| [Array](Topics/array/) | 33 |
+| [Binary Search](Topics/binary-search/) | 4 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
@@ -61,7 +61,7 @@ Contains topicwise list of solved problems.
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 14 |
+| [Hash Table](Topics/hash-table/) | 15 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Linked List](Topics/linked-list/) | 8 |
 | [Math](Topics/math/) | 10 |
@@ -73,8 +73,8 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 7 |
-| [Sorting](Topics/sorting/) | 11 |
+| [Sorting](Topics/sorting/) | 12 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 9 |
-| [Two Pointers](Topics/two-pointers/) | 11 |
+| [Two Pointers](Topics/two-pointers/) | 12 |
 <!---LeetHub Summary End-->
