@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-08T16:55:11.874Z",
+  "updatedAt": "2026-10-09T17:33:18.711Z",
   "problems": [
     {
       "frontendId": "15",
@@ -624,6 +624,26 @@
           "path": "2903-find-indices-with-index-and-value-difference-i/2903-find-indices-with-index-and-value-difference-i.cpp",
           "sha": "46c6fe21c57843eaa0f6a288451e389d1fc435f0",
           "lastSyncedAt": "2026-10-04T14:55:19.903Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3452",
+      "title": "Sum of Good Numbers",
+      "slug": "sum-of-good-numbers",
+      "problemName": "3452-sum-of-good-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-good-numbers/",
+      "folderPath": "3452-sum-of-good-numbers/",
+      "readmePath": "3452-sum-of-good-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3452-sum-of-good-numbers.cpp",
+          "path": "3452-sum-of-good-numbers/3452-sum-of-good-numbers.cpp",
+          "sha": "b52a6422794fe0be713ba960e4445603cd893bf0",
+          "lastSyncedAt": "2026-10-09T17:33:18.711Z"
         }
       ]
     },
