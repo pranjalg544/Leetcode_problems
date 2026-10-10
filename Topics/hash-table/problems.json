@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-08T16:55:11.874Z",
+  "updatedAt": "2026-10-10T06:02:19.214Z",
   "problems": [
     {
       "frontendId": "169",
@@ -284,6 +284,26 @@
           "path": "2475-number-of-unequal-triplets-in-array/2475-number-of-unequal-triplets-in-array.cpp",
           "sha": "af48fe7be5eff4e61200e5c042818541a317cecd",
           "lastSyncedAt": "2026-10-06T14:09:13.371Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3162",
+      "title": "Find the Number of Good Pairs I",
+      "slug": "find-the-number-of-good-pairs-i",
+      "problemName": "3162-find-the-number-of-good-pairs-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-number-of-good-pairs-i/",
+      "folderPath": "3162-find-the-number-of-good-pairs-i/",
+      "readmePath": "3162-find-the-number-of-good-pairs-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3162-find-the-number-of-good-pairs-i.cpp",
+          "path": "3162-find-the-number-of-good-pairs-i/3162-find-the-number-of-good-pairs-i.cpp",
+          "sha": "a6eb59882d9f27cfa32479e190d567996eebf097",
+          "lastSyncedAt": "2026-10-10T06:02:19.214Z"
         }
       ]
     },
