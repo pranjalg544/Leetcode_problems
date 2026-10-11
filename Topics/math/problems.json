@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "math",
-    "name": "Math"
+    "name": "Math",
+    "tagId": "8"
   },
-  "updatedAt": "2026-10-07T18:11:52.264Z",
+  "updatedAt": "2026-10-11T16:47:33.220Z",
   "problems": [
     {
       "frontendId": "2",
@@ -103,6 +104,26 @@
           "path": "0412-fizz-buzz/0412-fizz-buzz.cpp",
           "sha": "45d7b408345da025435432886acb95f24647db20",
           "lastSyncedAt": "2026-10-07T18:11:52.264Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1281",
+      "title": "Subtract the Product and Sum of Digits of an Integer",
+      "slug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+      "problemName": "1281-subtract-the-product-and-sum-of-digits-of-an-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/",
+      "folderPath": "1281-subtract-the-product-and-sum-of-digits-of-an-integer/",
+      "readmePath": "1281-subtract-the-product-and-sum-of-digits-of-an-integer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1281-subtract-the-product-and-sum-of-digits-of-an-integer.cpp",
+          "path": "1281-subtract-the-product-and-sum-of-digits-of-an-integer/1281-subtract-the-product-and-sum-of-digits-of-an-integer.cpp",
+          "sha": "f2863168cb24f6e18da569394f6f807edb0417ee",
+          "lastSyncedAt": "2026-10-11T16:47:33.220Z"
         }
       ]
     },
