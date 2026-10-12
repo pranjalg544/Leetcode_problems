@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T06:02:19.214Z",
+  "updatedAt": "2026-10-12T14:06:40.538Z",
   "problems": [
     {
       "frontendId": "15",
@@ -464,6 +464,26 @@
           "path": "1822-sign-of-the-product-of-an-array/1822-sign-of-the-product-of-an-array.cpp",
           "sha": "3d4dbd79bfffd30e08c25c2d95c8f3867e3ab305",
           "lastSyncedAt": "2026-09-19T19:21:37.742Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1920",
+      "title": "Build Array from Permutation",
+      "slug": "build-array-from-permutation",
+      "problemName": "1920-build-array-from-permutation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/build-array-from-permutation/",
+      "folderPath": "1920-build-array-from-permutation/",
+      "readmePath": "1920-build-array-from-permutation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1920-build-array-from-permutation.cpp",
+          "path": "1920-build-array-from-permutation/1920-build-array-from-permutation.cpp",
+          "sha": "2e028e5b25b40a37430b28ee347227f2b6ec7f89",
+          "lastSyncedAt": "2026-10-12T14:06:40.538Z"
         }
       ]
     },
