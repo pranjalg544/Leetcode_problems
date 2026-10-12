@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "string",
-    "name": "String"
+    "name": "String",
+    "tagId": "10"
   },
-  "updatedAt": "2026-10-07T18:11:52.264Z",
+  "updatedAt": "2026-10-12T14:16:03.796Z",
   "problems": [
     {
       "frontendId": "20",
@@ -143,6 +144,26 @@
           "path": "1528-shuffle-string/1528-shuffle-string.cpp",
           "sha": "57b272099dcf5f32d1572bb9849c2114f8e9b9e4",
           "lastSyncedAt": "2026-10-05T17:56:51.298Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2011",
+      "title": "Final Value of Variable After Performing Operations",
+      "slug": "final-value-of-variable-after-performing-operations",
+      "problemName": "2011-final-value-of-variable-after-performing-operations",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations/",
+      "folderPath": "2011-final-value-of-variable-after-performing-operations/",
+      "readmePath": "2011-final-value-of-variable-after-performing-operations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2011-final-value-of-variable-after-performing-operations.cpp",
+          "path": "2011-final-value-of-variable-after-performing-operations/2011-final-value-of-variable-after-performing-operations.cpp",
+          "sha": "609cf86c958c23022f70b3d72952807507e0f012",
+          "lastSyncedAt": "2026-10-12T14:16:03.796Z"
         }
       ]
     },
