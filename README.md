@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 56 | 47 | 9 | 0 |
+| 58 | 49 | 9 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 15 days | 15 days | 31 |
+| 16 days | 16 days | 32 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-28 | 1 |
 | 2026-09-29 | 1 |
 | 2026-09-30 | 3 |
 | 2026-10-01 | 1 |
@@ -29,27 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-10-09 | 2 |
 | 2026-10-10 | 1 |
 | 2026-10-11 | 1 |
+| 2026-10-12 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 63% |
-| Hash Table | 16 | 29% |
+| Array | 37 | 64% |
+| Hash Table | 16 | 28% |
 | Sorting | 12 | 21% |
 | Two Pointers | 12 | 21% |
-| Math | 11 | 20% |
-| Counting | 10 | 18% |
-| String | 9 | 16% |
+| Math | 11 | 19% |
+| Counting | 10 | 17% |
+| String | 10 | 17% |
+| Simulation | 9 | 16% |
 | Linked List | 8 | 14% |
-| Simulation | 7 | 13% |
 | Binary Search | 4 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 36 |
+| [Array](Topics/array/) | 38 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
@@ -73,9 +73,9 @@ Contains topicwise list of solved problems.
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
-| [Simulation](Topics/simulation/) | 7 |
+| [Simulation](Topics/simulation/) | 9 |
 | [Sorting](Topics/sorting/) | 12 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 9 |
+| [String](Topics/string/) | 10 |
 | [Two Pointers](Topics/two-pointers/) | 12 |
 <!---LeetHub Summary End-->
