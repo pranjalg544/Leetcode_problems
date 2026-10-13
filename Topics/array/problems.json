@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-12T14:16:03.796Z",
+  "updatedAt": "2026-10-13T18:28:28.045Z",
   "problems": [
     {
       "frontendId": "15",
@@ -264,6 +264,26 @@
           "path": "1365-how-many-numbers-are-smaller-than-the-current-number/1365-how-many-numbers-are-smaller-than-the-current-number.cpp",
           "sha": "32a8051a6d235f770fe3a0d43a2b8c9ae45cd4ff",
           "lastSyncedAt": "2026-10-03T16:51:52.240Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1389",
+      "title": "Create Target Array in the Given Order",
+      "slug": "create-target-array-in-the-given-order",
+      "problemName": "1389-create-target-array-in-the-given-order",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/create-target-array-in-the-given-order/",
+      "folderPath": "1389-create-target-array-in-the-given-order/",
+      "readmePath": "1389-create-target-array-in-the-given-order/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1389-create-target-array-in-the-given-order.cpp",
+          "path": "1389-create-target-array-in-the-given-order/1389-create-target-array-in-the-given-order.cpp",
+          "sha": "97ff3e9be0ac29188cb5ac2d77905241bb95117e",
+          "lastSyncedAt": "2026-10-13T18:28:28.045Z"
         }
       ]
     },
