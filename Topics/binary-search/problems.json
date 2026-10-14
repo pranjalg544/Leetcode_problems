@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-08T16:55:11.874Z",
+  "updatedAt": "2026-10-14T17:43:45.082Z",
   "problems": [
     {
       "frontendId": "349",
@@ -24,6 +24,26 @@
           "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "100ab386c235f28fda2d65556796d15b8792df15",
           "lastSyncedAt": "2026-10-08T16:55:11.874Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "problemName": "0704-binary-search",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+      "folderPath": "0704-binary-search/",
+      "readmePath": "0704-binary-search/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0704-binary-search.cpp",
+          "path": "0704-binary-search/0704-binary-search.cpp",
+          "sha": "7e31a7bb9a8a4586d9fdd0a073421c7cbc59eb1b",
+          "lastSyncedAt": "2026-10-14T17:43:45.082Z"
         }
       ]
     },
