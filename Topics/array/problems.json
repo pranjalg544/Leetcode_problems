@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-14T17:43:45.082Z",
+  "updatedAt": "2026-10-15T17:01:40.164Z",
   "problems": [
     {
       "frontendId": "15",
@@ -684,6 +684,26 @@
           "path": "2706-buy-two-chocolates/2706-buy-two-chocolates.cpp",
           "sha": "1551370d6f3abbd0713562d54aa6cbe892afdc5e",
           "lastSyncedAt": "2026-10-04T15:12:18.828Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2798",
+      "title": "Number of Employees Who Met the Target",
+      "slug": "number-of-employees-who-met-the-target",
+      "problemName": "2798-number-of-employees-who-met-the-target",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-employees-who-met-the-target/",
+      "folderPath": "2798-number-of-employees-who-met-the-target/",
+      "readmePath": "2798-number-of-employees-who-met-the-target/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2798-number-of-employees-who-met-the-target.cpp",
+          "path": "2798-number-of-employees-who-met-the-target/2798-number-of-employees-who-met-the-target.cpp",
+          "sha": "97afdfcf7bc0d9e07ec30a039f01752d3dbf3e0f",
+          "lastSyncedAt": "2026-10-15T17:01:40.164Z"
         }
       ]
     },
