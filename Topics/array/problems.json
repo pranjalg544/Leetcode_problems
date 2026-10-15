@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-15T17:01:40.164Z",
+  "updatedAt": "2026-10-15T17:08:09.729Z",
   "problems": [
     {
       "frontendId": "15",
@@ -744,6 +744,26 @@
           "path": "2903-find-indices-with-index-and-value-difference-i/2903-find-indices-with-index-and-value-difference-i.cpp",
           "sha": "46c6fe21c57843eaa0f6a288451e389d1fc435f0",
           "lastSyncedAt": "2026-10-04T14:55:19.903Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3065",
+      "title": "Minimum Operations to Exceed Threshold Value I",
+      "slug": "minimum-operations-to-exceed-threshold-value-i",
+      "problemName": "3065-minimum-operations-to-exceed-threshold-value-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/",
+      "folderPath": "3065-minimum-operations-to-exceed-threshold-value-i/",
+      "readmePath": "3065-minimum-operations-to-exceed-threshold-value-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3065-minimum-operations-to-exceed-threshold-value-i.cpp",
+          "path": "3065-minimum-operations-to-exceed-threshold-value-i/3065-minimum-operations-to-exceed-threshold-value-i.cpp",
+          "sha": "202b9e89689319b608350908da9115bb5ba83ab1",
+          "lastSyncedAt": "2026-10-15T17:08:09.729Z"
         }
       ]
     },
