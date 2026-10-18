@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 65 | 56 | 9 | 0 |
+| 66 | 57 | 9 | 0 |
 
 ## Activity
 
@@ -28,14 +28,14 @@ Contains topicwise list of solved problems.
 | 2026-10-15 | 2 |
 | 2026-10-16 | 2 |
 | 2026-10-17 | 1 |
-| 2026-10-18 | 1 |
+| 2026-10-18 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 42 | 65% |
-| Hash Table | 16 | 25% |
+| Array | 43 | 65% |
+| Hash Table | 16 | 24% |
 | Math | 13 | 20% |
 | Sorting | 13 | 20% |
 | Two Pointers | 12 | 18% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 44 |
+| [Array](Topics/array/) | 45 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
