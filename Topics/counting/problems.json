@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "counting",
-    "name": "Counting"
+    "name": "Counting",
+    "tagId": "61062"
   },
-  "updatedAt": "2026-09-25T16:57:33.886Z",
+  "updatedAt": "2026-10-20T11:11:06.006Z",
   "problems": [
     {
       "frontendId": "169",
@@ -143,6 +144,26 @@
           "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.cpp",
           "sha": "bc6aca2458a06a34aae421eb4a2b5c86023c6673",
           "lastSyncedAt": "2026-09-19T19:23:00.615Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2006",
+      "title": "Count Number of Pairs With Absolute Difference K",
+      "slug": "count-number-of-pairs-with-absolute-difference-k",
+      "problemName": "2006-count-number-of-pairs-with-absolute-difference-k",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/",
+      "folderPath": "2006-count-number-of-pairs-with-absolute-difference-k/",
+      "readmePath": "2006-count-number-of-pairs-with-absolute-difference-k/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2006-count-number-of-pairs-with-absolute-difference-k.cpp",
+          "path": "2006-count-number-of-pairs-with-absolute-difference-k/2006-count-number-of-pairs-with-absolute-difference-k.cpp",
+          "sha": "a7c1c269a0ca6394b1f0ada2519f9db040dd41b4",
+          "lastSyncedAt": "2026-10-20T11:11:06.006Z"
         }
       ]
     },
