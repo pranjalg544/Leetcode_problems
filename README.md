@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 67 | 58 | 9 | 0 |
+| 68 | 59 | 9 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 16 days | 38 |
+| 7 days | 16 days | 39 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-05 | 1 |
 | 2026-10-06 | 3 |
 | 2026-10-07 | 2 |
 | 2026-10-08 | 1 |
@@ -29,17 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-10-17 | 1 |
 | 2026-10-18 | 2 |
 | 2026-10-19 | 1 |
+| 2026-10-20 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 44 | 66% |
-| Hash Table | 16 | 24% |
+| Array | 45 | 66% |
+| Hash Table | 17 | 25% |
 | Sorting | 14 | 21% |
 | Math | 13 | 19% |
 | Two Pointers | 12 | 18% |
-| Counting | 10 | 15% |
+| Counting | 11 | 16% |
 | Simulation | 10 | 15% |
 | String | 10 | 15% |
 | Linked List | 8 | 12% |
@@ -49,13 +49,13 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 46 |
+| [Array](Topics/array/) | 47 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
-| [Counting](Topics/counting/) | 10 |
+| [Counting](Topics/counting/) | 11 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
@@ -63,7 +63,7 @@ Contains topicwise list of solved problems.
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 16 |
+| [Hash Table](Topics/hash-table/) | 17 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Linked List](Topics/linked-list/) | 8 |
 | [Math](Topics/math/) | 13 |
