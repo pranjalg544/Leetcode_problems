@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 68 | 59 | 9 | 0 |
+| 69 | 60 | 9 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 7 days | 16 days | 39 |
+| 1 days | 16 days | 40 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-06 | 3 |
 | 2026-10-07 | 2 |
 | 2026-10-08 | 1 |
 | 2026-10-09 | 2 |
@@ -29,19 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-10-18 | 2 |
 | 2026-10-19 | 1 |
 | 2026-10-20 | 1 |
+| 2026-10-22 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 45 | 66% |
+| Array | 46 | 67% |
 | Hash Table | 17 | 25% |
-| Sorting | 14 | 21% |
+| Sorting | 14 | 20% |
 | Math | 13 | 19% |
-| Two Pointers | 12 | 18% |
-| Counting | 11 | 16% |
-| Simulation | 10 | 15% |
-| String | 10 | 15% |
+| Counting | 12 | 17% |
+| Two Pointers | 12 | 17% |
+| String | 11 | 16% |
+| Simulation | 10 | 14% |
 | Linked List | 8 | 12% |
 | Binary Search | 6 | 9% |
 
@@ -49,13 +49,13 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 47 |
+| [Array](Topics/array/) | 48 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
-| [Counting](Topics/counting/) | 11 |
+| [Counting](Topics/counting/) | 12 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
@@ -78,6 +78,6 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 10 |
 | [Sorting](Topics/sorting/) | 14 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 10 |
+| [String](Topics/string/) | 11 |
 | [Two Pointers](Topics/two-pointers/) | 12 |
 <!---LeetHub Summary End-->
