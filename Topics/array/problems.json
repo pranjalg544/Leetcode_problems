@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-20T11:11:06.006Z",
+  "updatedAt": "2026-10-22T18:10:05.804Z",
   "problems": [
     {
       "frontendId": "15",
@@ -744,6 +744,26 @@
           "path": "2475-number-of-unequal-triplets-in-array/2475-number-of-unequal-triplets-in-array.cpp",
           "sha": "af48fe7be5eff4e61200e5c042818541a317cecd",
           "lastSyncedAt": "2026-10-06T14:09:13.371Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2586",
+      "title": "Count the Number of Vowel Strings in Range",
+      "slug": "count-the-number-of-vowel-strings-in-range",
+      "problemName": "2586-count-the-number-of-vowel-strings-in-range",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/",
+      "folderPath": "2586-count-the-number-of-vowel-strings-in-range/",
+      "readmePath": "2586-count-the-number-of-vowel-strings-in-range/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2586-count-the-number-of-vowel-strings-in-range.cpp",
+          "path": "2586-count-the-number-of-vowel-strings-in-range/2586-count-the-number-of-vowel-strings-in-range.cpp",
+          "sha": "90a20d94ecce1725715936569d35bb7d91200c63",
+          "lastSyncedAt": "2026-10-22T18:10:05.804Z"
         }
       ]
     },
