@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 69 | 60 | 9 | 0 |
+| 70 | 61 | 9 | 0 |
 
 ## Activity
 
@@ -28,28 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-10-18 | 2 |
 | 2026-10-19 | 1 |
 | 2026-10-20 | 1 |
-| 2026-10-22 | 1 |
+| 2026-10-22 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 46 | 67% |
-| Hash Table | 17 | 25% |
+| Array | 47 | 67% |
+| Hash Table | 17 | 24% |
 | Sorting | 14 | 20% |
 | Math | 13 | 19% |
 | Counting | 12 | 17% |
 | Two Pointers | 12 | 17% |
+| Simulation | 11 | 16% |
 | String | 11 | 16% |
-| Simulation | 10 | 14% |
-| Linked List | 8 | 12% |
+| Linked List | 8 | 11% |
 | Binary Search | 6 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 48 |
+| [Array](Topics/array/) | 49 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
@@ -75,7 +75,7 @@ Contains topicwise list of solved problems.
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
-| [Simulation](Topics/simulation/) | 10 |
+| [Simulation](Topics/simulation/) | 11 |
 | [Sorting](Topics/sorting/) | 14 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 11 |
