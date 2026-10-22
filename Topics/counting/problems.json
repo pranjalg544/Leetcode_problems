@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-20T11:11:06.006Z",
+  "updatedAt": "2026-10-22T18:10:05.804Z",
   "problems": [
     {
       "frontendId": "169",
@@ -204,6 +204,26 @@
           "path": "2347-best-poker-hand/2347-best-poker-hand.cpp",
           "sha": "508689cc88baaf4a266a8a83cf044c267b23280d",
           "lastSyncedAt": "2026-09-22T17:52:27.748Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2586",
+      "title": "Count the Number of Vowel Strings in Range",
+      "slug": "count-the-number-of-vowel-strings-in-range",
+      "problemName": "2586-count-the-number-of-vowel-strings-in-range",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/",
+      "folderPath": "2586-count-the-number-of-vowel-strings-in-range/",
+      "readmePath": "2586-count-the-number-of-vowel-strings-in-range/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2586-count-the-number-of-vowel-strings-in-range.cpp",
+          "path": "2586-count-the-number-of-vowel-strings-in-range/2586-count-the-number-of-vowel-strings-in-range.cpp",
+          "sha": "90a20d94ecce1725715936569d35bb7d91200c63",
+          "lastSyncedAt": "2026-10-22T18:10:05.804Z"
         }
       ]
     },
