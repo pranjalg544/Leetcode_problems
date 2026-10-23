@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "dynamic-programming",
-    "name": "Dynamic Programming"
+    "name": "Dynamic Programming",
+    "tagId": "13"
   },
-  "updatedAt": "2026-09-19T19:23:57.396Z",
+  "updatedAt": "2026-10-23T11:58:34.001Z",
   "problems": [
     {
       "frontendId": "121",
@@ -23,6 +24,26 @@
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.cpp",
           "sha": "ce01be9875701e71958aae26bb4e6f5f744939e1",
           "lastSyncedAt": "2026-09-19T19:23:57.396Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "338",
+      "title": "Counting Bits",
+      "slug": "counting-bits",
+      "problemName": "0338-counting-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/counting-bits/",
+      "folderPath": "0338-counting-bits/",
+      "readmePath": "0338-counting-bits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0338-counting-bits.cpp",
+          "path": "0338-counting-bits/0338-counting-bits.cpp",
+          "sha": "b450edd93f4f5d6915dd00bc9e0188f145d45c26",
+          "lastSyncedAt": "2026-10-23T11:58:34.001Z"
         }
       ]
     }
