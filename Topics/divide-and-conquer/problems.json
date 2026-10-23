@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "divide-and-conquer",
-    "name": "Divide and Conquer"
+    "name": "Divide and Conquer",
+    "tagId": "12"
   },
-  "updatedAt": "2026-09-24T17:48:27.003Z",
+  "updatedAt": "2026-10-23T21:00:05.789Z",
   "problems": [
     {
       "frontendId": "169",
@@ -23,6 +24,26 @@
           "path": "0169-majority-element/0169-majority-element.cpp",
           "sha": "e28e87e1393c42f54ae0f908f7ea3305be745889",
           "lastSyncedAt": "2026-09-19T19:23:43.465Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "191",
+      "title": "Number of 1 Bits",
+      "slug": "number-of-1-bits",
+      "problemName": "0191-number-of-1-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-1-bits/",
+      "folderPath": "0191-number-of-1-bits/",
+      "readmePath": "0191-number-of-1-bits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0191-number-of-1-bits.cpp",
+          "path": "0191-number-of-1-bits/0191-number-of-1-bits.cpp",
+          "sha": "ad743540dafc797520e3a1a70bf7f35287e93eea",
+          "lastSyncedAt": "2026-10-23T21:00:05.789Z"
         }
       ]
     },
