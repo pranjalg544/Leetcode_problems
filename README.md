@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 70 | 61 | 9 | 0 |
+| 71 | 62 | 9 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 16 days | 40 |
+| 2 days | 16 days | 41 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-07 | 2 |
 | 2026-10-08 | 1 |
 | 2026-10-09 | 2 |
 | 2026-10-10 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-10-19 | 1 |
 | 2026-10-20 | 1 |
 | 2026-10-22 | 2 |
+| 2026-10-23 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 47 | 67% |
+| Array | 47 | 66% |
 | Hash Table | 17 | 24% |
 | Sorting | 14 | 20% |
-| Math | 13 | 19% |
+| Math | 13 | 18% |
 | Counting | 12 | 17% |
 | Two Pointers | 12 | 17% |
-| Simulation | 11 | 16% |
-| String | 11 | 16% |
+| Simulation | 11 | 15% |
+| String | 11 | 15% |
 | Linked List | 8 | 11% |
-| Binary Search | 6 | 9% |
+| Binary Search | 6 | 8% |
 
 ## Topics
 
@@ -51,6 +51,7 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | [Array](Topics/array/) | 49 |
 | [Binary Search](Topics/binary-search/) | 6 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
@@ -59,7 +60,7 @@ Contains topicwise list of solved problems.
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Greedy](Topics/greedy/) | 1 |
