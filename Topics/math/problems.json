@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-24T14:41:41.377Z",
+  "updatedAt": "2026-10-27T18:19:57.665Z",
   "problems": [
     {
       "frontendId": "2",
@@ -284,6 +284,26 @@
           "path": "2520-count-the-digits-that-divide-a-number/2520-count-the-digits-that-divide-a-number.cpp",
           "sha": "397c0fc96fe67d215c6f9feff6d936e4ddca35c1",
           "lastSyncedAt": "2026-10-16T18:03:42.895Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3875",
+      "title": "Construct Uniform Parity Array I",
+      "slug": "construct-uniform-parity-array-i",
+      "problemName": "3875-construct-uniform-parity-array-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
+      "folderPath": "3875-construct-uniform-parity-array-i/",
+      "readmePath": "3875-construct-uniform-parity-array-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3875-construct-uniform-parity-array-i.cpp",
+          "path": "3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.cpp",
+          "sha": "980fa4ef8c627cacba5ab3b57afdf772adb2d553",
+          "lastSyncedAt": "2026-10-27T18:19:57.665Z"
         }
       ]
     }
