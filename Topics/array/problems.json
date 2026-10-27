@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-22T18:25:38.675Z",
+  "updatedAt": "2026-10-27T18:19:57.665Z",
   "problems": [
     {
       "frontendId": "15",
@@ -984,6 +984,26 @@
           "path": "3701-compute-alternating-sum/3701-compute-alternating-sum.cpp",
           "sha": "ed6daa266817f787fbe7cfa554908d5355759643",
           "lastSyncedAt": "2026-10-02T17:51:55.213Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3875",
+      "title": "Construct Uniform Parity Array I",
+      "slug": "construct-uniform-parity-array-i",
+      "problemName": "3875-construct-uniform-parity-array-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
+      "folderPath": "3875-construct-uniform-parity-array-i/",
+      "readmePath": "3875-construct-uniform-parity-array-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3875-construct-uniform-parity-array-i.cpp",
+          "path": "3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.cpp",
+          "sha": "980fa4ef8c627cacba5ab3b57afdf772adb2d553",
+          "lastSyncedAt": "2026-10-27T18:19:57.665Z"
         }
       ]
     }
