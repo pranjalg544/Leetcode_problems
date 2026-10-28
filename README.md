@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 75 | 66 | 9 | 0 |
+| 76 | 67 | 9 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 16 days | 44 |
+| 3 days | 16 days | 45 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-11 | 1 |
 | 2026-10-12 | 2 |
 | 2026-10-14 | 1 |
 | 2026-10-15 | 2 |
@@ -29,19 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-10-24 | 2 |
 | 2026-10-26 | 1 |
 | 2026-10-27 | 1 |
+| 2026-10-28 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 48 | 64% |
-| Hash Table | 17 | 23% |
+| Array | 49 | 64% |
+| Hash Table | 18 | 24% |
 | Math | 15 | 20% |
-| Sorting | 14 | 19% |
+| Sorting | 14 | 18% |
 | Counting | 12 | 16% |
 | String | 12 | 16% |
 | Two Pointers | 12 | 16% |
-| Simulation | 11 | 15% |
+| Simulation | 11 | 14% |
 | Linked List | 8 | 11% |
 | Binary Search | 6 | 8% |
 
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 50 |
+| [Array](Topics/array/) | 51 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
@@ -64,13 +64,14 @@ Contains topicwise list of solved problems.
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 17 |
+| [Hash Table](Topics/hash-table/) | 18 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Linked List](Topics/linked-list/) | 8 |
 | [Math](Topics/math/) | 15 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
+| [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
