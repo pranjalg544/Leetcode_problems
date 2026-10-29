@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-27T18:19:57.665Z",
+  "updatedAt": "2026-10-29T19:07:23.405Z",
   "problems": [
     {
       "frontendId": "2",
@@ -124,6 +124,26 @@
           "path": "0412-fizz-buzz/0412-fizz-buzz.cpp",
           "sha": "45d7b408345da025435432886acb95f24647db20",
           "lastSyncedAt": "2026-10-07T18:11:52.264Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "728",
+      "title": "Self Dividing Numbers",
+      "slug": "self-dividing-numbers",
+      "problemName": "0728-self-dividing-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/self-dividing-numbers/",
+      "folderPath": "0728-self-dividing-numbers/",
+      "readmePath": "0728-self-dividing-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0728-self-dividing-numbers.cpp",
+          "path": "0728-self-dividing-numbers/0728-self-dividing-numbers.cpp",
+          "sha": "8f9ac46dd2209e1ae09ef77d6df178addcfe506f",
+          "lastSyncedAt": "2026-10-29T19:07:23.405Z"
         }
       ]
     },
