@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 78 | 69 | 9 | 0 |
+| 79 | 70 | 9 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 16 days | 47 |
+| 1 days | 16 days | 48 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-15 | 2 |
 | 2026-10-16 | 2 |
 | 2026-10-17 | 1 |
 | 2026-10-18 | 2 |
@@ -29,14 +28,15 @@ Contains topicwise list of solved problems.
 | 2026-10-28 | 1 |
 | 2026-10-31 | 1 |
 | 2026-11-01 | 1 |
+| 2026-11-03 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 50 | 64% |
+| Array | 51 | 65% |
 | Hash Table | 18 | 23% |
-| Math | 15 | 19% |
+| Math | 16 | 20% |
 | Sorting | 14 | 18% |
 | Counting | 12 | 15% |
 | String | 12 | 15% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 52 |
+| [Array](Topics/array/) | 53 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 4 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
@@ -67,7 +67,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 18 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Linked List](Topics/linked-list/) | 8 |
-| [Math](Topics/math/) | 16 |
+| [Math](Topics/math/) | 17 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
