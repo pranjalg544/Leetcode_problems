@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-03T07:04:00.653Z",
+  "updatedAt": "2026-11-04T17:12:08.775Z",
   "problems": [
     {
       "frontendId": "2",
@@ -304,6 +304,26 @@
           "path": "2520-count-the-digits-that-divide-a-number/2520-count-the-digits-that-divide-a-number.cpp",
           "sha": "397c0fc96fe67d215c6f9feff6d936e4ddca35c1",
           "lastSyncedAt": "2026-10-16T18:03:42.895Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2652",
+      "title": "Sum Multiples",
+      "slug": "sum-multiples",
+      "problemName": "2652-sum-multiples",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-multiples/",
+      "folderPath": "2652-sum-multiples/",
+      "readmePath": "2652-sum-multiples/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2652-sum-multiples.cpp",
+          "path": "2652-sum-multiples/2652-sum-multiples.cpp",
+          "sha": "0f4b83a116be31e31f29e6f9c7180f494f421558",
+          "lastSyncedAt": "2026-11-04T17:12:08.775Z"
         }
       ]
     },
