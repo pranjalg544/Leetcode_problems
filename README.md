@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 79 | 70 | 9 | 0 |
+| 81 | 72 | 9 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 16 days | 48 |
+| 1 days | 16 days | 50 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-16 | 2 |
-| 2026-10-17 | 1 |
 | 2026-10-18 | 2 |
 | 2026-10-19 | 1 |
 | 2026-10-20 | 1 |
@@ -29,29 +27,31 @@ Contains topicwise list of solved problems.
 | 2026-10-31 | 1 |
 | 2026-11-01 | 1 |
 | 2026-11-03 | 1 |
+| 2026-11-04 | 1 |
+| 2026-11-13 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 51 | 65% |
-| Hash Table | 18 | 23% |
-| Math | 16 | 20% |
-| Sorting | 14 | 18% |
+| Array | 52 | 64% |
+| Hash Table | 19 | 23% |
+| Math | 18 | 22% |
+| Sorting | 15 | 19% |
 | Counting | 12 | 15% |
 | String | 12 | 15% |
 | Two Pointers | 12 | 15% |
 | Simulation | 11 | 14% |
 | Linked List | 8 | 10% |
-| Binary Search | 6 | 8% |
+| Binary Search | 7 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 53 |
-| [Binary Search](Topics/binary-search/) | 6 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 4 |
+| [Array](Topics/array/) | 54 |
+| [Binary Search](Topics/binary-search/) | 7 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
@@ -64,10 +64,10 @@ Contains topicwise list of solved problems.
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 18 |
+| [Hash Table](Topics/hash-table/) | 19 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Linked List](Topics/linked-list/) | 8 |
-| [Math](Topics/math/) | 17 |
+| [Math](Topics/math/) | 19 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
@@ -78,7 +78,7 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 4 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 11 |
-| [Sorting](Topics/sorting/) | 14 |
+| [Sorting](Topics/sorting/) | 15 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 12 |
 | [Two Pointers](Topics/two-pointers/) | 12 |
